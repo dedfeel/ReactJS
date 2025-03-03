@@ -1,0 +1,23 @@
+.container{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin-top: 200px;
+}
+
+.div{
+  background-color: cadetblue;
+  padding: 10px 100px;
+  border-radius: 20px;
+  color: white;
+}
+
+.title{
+  font-size: 2em;
+}
+
+.div:hover{
+  background-color: rgb(69, 119, 121);
+  margin-top: -5px;
+  transition-duration: 1s;
+}
