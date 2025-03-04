@@ -1,0 +1,19 @@
+*{
+  margin: 0;
+  padding: 0;
+  background-color: rgb(230, 230, 230);
+}
+
+.divAll{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin-top: 100px;
+}
+
+.divCard{
+  display: flex ;
+  justify-content: center;
+  gap: 30px;
+  margin-top: 50px;
+}
