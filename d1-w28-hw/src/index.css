@@ -1,0 +1,53 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.body{
+    background-color: teal;
+    height: 700px;
+    color: white;
+    
+}
+h1{
+    font-size: 3em;
+    margin-bottom: 20px;
+}
+
+.section1{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding-top: 18%;
+}
+
+.boxLink{
+    display: flex;
+    gap: 30px;
+    
+
+}
+
+.section1Link{
+    font-size: 2em;
+    text-decoration: none;
+}
+
+.boxBio{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    
+}
+.btn{
+    border: solid 1px ;
+    padding: 15px 50px;
+    background-color: teal;
+    border-radius: 30px;
+    color: white;
+    transition-duration: .4s;
+}
+.btn:hover{
+    color: black;
+    transition-duration: 0.4s;
+}
