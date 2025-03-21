@@ -1,0 +1,38 @@
+[
+    {
+      "name": "Company Landing Page",
+      "description": "Корпоративтік веб-сайт, негізгі ақпаратты көрсететін және байланыс формасы бар.",
+      "technologies": ["HTML", "CSS", "JavaScript", "React"],
+      "github": "https://github.com/example/company-landing",
+      "id": 0
+    },
+    {
+      "name": "Task Management App",
+      "description": "Пайдаланушыларға тапсырмаларды қосуға, өңдеуге және жоюға мүмкіндік беретін веб-қосымша.",
+      "technologies": ["React", "Redux", "Firebase"],
+      "github": "https://github.com/example/task-manager",
+      "id": 1
+    },
+    {
+      "name": "E-commerce Website",
+      "description": "Тауарларды көрсету, себетке қосу және тапсырыс беру мүмкіндігі бар интернет-дүкен.",
+      "technologies": ["Next.js", "Tailwind CSS", "Stripe API"],
+      "github": "https://github.com/example/ecommerce-site",
+      "id": 2
+    },
+    {
+      "name": "Weather Dashboard",
+      "description": "API арқылы нақты уақыттағы ауа райы деректерін көрсететін веб-қосымша.",
+      "technologies": ["Vue.js", "Axios", "OpenWeather API"],
+      "github": "https://github.com/example/weather-dashboard",
+      "id": 3
+    },
+    {
+      "name": "Portfolio Website",
+      "description": "Жеке портфолио, жобалар мен байланыс ақпаратын көрсету үшін.",
+      "technologies": ["HTML", "CSS", "JavaScript", "GSAP"],
+      "github": "https://github.com/example/portfolio-site",
+      "id": 4
+    }
+  ]
+  
